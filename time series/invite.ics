@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:CANCEL
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:GMT+5:30
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20241210T190000
+DTEND;TZID=Asia/Kolkata:20241210T200000
+DTSTAMP:20241209T105632Z
+ORGANIZER;CN=IPL Infographics:mailto:springboardmentor441u@gmail.com
+UID:681lk2cit5ektsoft0jja1qnuo@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=gn
+ aneshwarreddy0816o@gmail.com;X-NUM-GUESTS=0:mailto:gnaneshwarreddy0816o@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Di
+ mple Katla;X-NUM-GUESTS=0:mailto:dimple.katla@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Sr
+ eeram Navya;X-NUM-GUESTS=0:mailto:sriramnavya2001@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ramkri
+ shna Wale;X-NUM-GUESTS=0:mailto:ramkrishnawale10@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sp
+ ringboardmentor019@gmail.com;X-NUM-GUESTS=0:mailto:springboardmentor019@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sp
+ ringboardmentor501@gmail.com;X-NUM-GUESTS=0:mailto:springboardmentor501@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ko
+ muravelly Sai Aman;X-NUM-GUESTS=0:mailto:saiamankomuravelly@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ hwinkumarm23@gmail.com;X-NUM-GUESTS=0:mailto:ashwinkumarm23@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Va
+ nshika Tomar;X-NUM-GUESTS=0:mailto:vanshika.tomar1664@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Si
+ vani Kanaparthi;X-NUM-GUESTS=0:mailto:sivanikanaparthi2@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nx
+ twave123456789@gmail.com;X-NUM-GUESTS=0:mailto:nxtwave123456789@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=la
+ kshmidurga9992@gmail.com;X-NUM-GUESTS=0:mailto:lakshmidurga9992@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sp
+ ringboardmentor117@gmail.com;X-NUM-GUESTS=0:mailto:springboardmentor117@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Sh
+ aurya Raj;X-NUM-GUESTS=0:mailto:sauray4400@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ navathmalleshwari62@gmail.com;X-NUM-GUESTS=0:mailto:nenavathmalleshwari62@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=shatak
+ shibhusari@gmail.com;X-NUM-GUESTS=0:mailto:shatakshibhusari@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ga
+ uri Chiddarwar;X-NUM-GUESTS=0:mailto:chiddarwargauri@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ tyanarayanagope9@gmail.com;X-NUM-GUESTS=0:mailto:satyanarayanagope9@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;CN=sugum
+ arc63@gmail.com;X-NUM-GUESTS=0:mailto:sugumarc63@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=GI
+ RIJA S D AIML DEPT;X-NUM-GUESTS=0:mailto:23204013@rmd.ac.in
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=SU
+ RESHMITHA DEVU;X-NUM-GUESTS=0:mailto:reshmithadevu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=IPL In
+ fographics;X-NUM-GUESTS=0:mailto:springboardmentor441u@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ma
+ anya;X-NUM-GUESTS=0:mailto:kharbandamaanya@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ sk72544@gmail.com;X-NUM-GUESTS=0:mailto:dask72544@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Vaibha
+ v Parabhane;X-NUM-GUESTS=0:mailto:vaibhavparabhane@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=vishak
+ ha020803@gmail.com;X-NUM-GUESTS=0:mailto:vishakha020803@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Do
+ lli;X-NUM-GUESTS=0:mailto:rawatdolly834@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ ndeepkumarptkm@gmail.com;X-NUM-GUESTS=0:mailto:sandeepkumarptkm@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/nxt-dakc-jaf
+RECURRENCE-ID;TZID=Asia/Kolkata:20241210T190000
+CREATED:20241102T121044Z
+DESCRIPTION:Hi all\,\n\n IPL Infographics\, where you'll analyze and visual
+ ize data from the Indian Premier League (IPL). Through this project\, you’l
+ l create infographics that highlight player performances\, team statistics\
+ , and other interesting trends across IPL seasons. The goal is to make comp
+ lex data accessible and engaging\, helping fans and analysts gain valuable 
+ insights into the IPL. This project will be a hands-on experience in data v
+ isualization\, perfect for enhancing your skills in presenting analytics in
+  a visually appealing format.\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https
+ ://meet.google.com/nxt-dakc-jaf\n\nLearn more about Meet at: https://suppor
+ t.google.com/a/users/answer/9282720\n\nPlease do not edit this section.\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20241209T105631Z
+LOCATION:
+SEQUENCE:2
+STATUS:CANCELLED
+SUMMARY:Project IPL Infographics
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
